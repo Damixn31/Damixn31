@@ -8,7 +8,7 @@
 ### [ 🐙 ] About Me:
 - I had to be in the technology world a long time ago, but I was lost in space. 🛸 I'm very good at teamwork - I like to help others - it makes me happy to see people excel - I'm always looking for something new to learn. 🛸
 
-### [ 🔎 ] You can Find me:
+### You can Find me:
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damian-olmedo-fullstackdeveloper/)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hi.damit/)
 [![image](	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Dxmian_)
@@ -17,7 +17,7 @@
 const damixn = {
   pronouns: "hi" | "him",
   code: [Javascript, Typescript, HTML, CSS, Python],
-  tools: [React, Redux, Node, Styled-Components, Jest, Material-ui],
+  tools: [React, Redux, Node, Styled-Components, Jest, Material-Ui],
   operatingSystem: ["linux", "windows"],
   softSkill: {
                         a: "Emotional intelligence",
@@ -62,14 +62,4 @@ const damixn = {
 
 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
