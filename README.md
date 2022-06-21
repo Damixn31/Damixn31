@@ -1,6 +1,6 @@
                                                           [ 🎴Hi I'm🎴 ]
 ---
-[![banner.png](https://i.postimg.cc/0y9Z0WVF/banner.png)](https://postimg.cc/fJgxwKnf)
+[![baner.png](https://i.postimg.cc/pTN5ztnK/baner.png)](https://postimg.cc/QBbMZwmM)
 <h2 color="#F8D210">FullStack Developer<img src="https://3.bp.blogspot.com/_-NyGm2MYc0U/TKp8UzErDmI/AAAAAAAABts/rUY4YyOvTXA/h4.gif" width="150"></h2>
 <img align='right' src="http://www.clipartbest.com/cliparts/RTG/EjL/RTGEjLEbc.gif" width="330">
                                                      
@@ -28,11 +28,11 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="55"/>
  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Logo_de_Auth0.svg" width="55"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="55"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="55"/>    
+ 
+   
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="55"/>
  <img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="55"/>  
+ 
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Stripe_Logo%2C_revised_2016.svg/2560px-Stripe_Logo%2C_revised_2016.svg.png" width="55"/>
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/PayPal_logo.svg/527px-PayPal_logo.svg.png" width="55"/>
  </p>
