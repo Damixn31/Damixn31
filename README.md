@@ -13,6 +13,21 @@
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hi.damit/)
 [![image](	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Dxmian_)
 
+```javascript
+const damixn = {
+  pronouns: "hi" | "him",
+  code: [Javascript, Typescript, HTML, CSS, Python],
+  tools: [React, Redux, Node, Styled-Components, Jest, Material-ui],
+  operatingSystem: ["linux", "windows"],
+  softSkill: {
+                        a: "Emotional intelligence",
+                        b: "Creativity",
+                        c: "Adaptability"
+                      },
+ comment: "respect & humility"
+}
+```
+
 
 ### [ :abacus: ] Tech Stack
 <p align="center">
