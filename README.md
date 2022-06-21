@@ -11,7 +11,7 @@
 - I had to be in the technology world a long time ago, but I was lost in space. 🛸 I'm very good at teamwork - I like to help others - it makes me happy to see people excel - I'm always looking for something new to learn. 🛸
 
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-reyes-hernandez/)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damian-olmedo-fullstackdeveloper/)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hi.damit/)
 [![image](	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Dxmian_)
 
