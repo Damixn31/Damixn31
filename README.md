@@ -1,7 +1,44 @@
-<h2>Hi I'm Damian! <img src="https://3.bp.blogspot.com/_-NyGm2MYc0U/TKp8UzErDmI/AAAAAAAABts/rUY4YyOvTXA/h4.gif" width="150"></h2>
-<img align='right' src="http://www.clipartbest.com/cliparts/RTG/EjL/RTGEjLEbc.gif" width="230">
-<p><em>Software Engineer at <a href="http://www.cleartax.in">ClearTax</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+### [ 🎴Hi I'm🎴 ]
+
+[![banner.png](https://i.postimg.cc/0y9Z0WVF/banner.png)](https://postimg.cc/fJgxwKnf)
+<h2 color="#F8D210">FullStack Developer<img src="https://3.bp.blogspot.com/_-NyGm2MYc0U/TKp8UzErDmI/AAAAAAAABts/rUY4YyOvTXA/h4.gif" width="150"></h2>
+
+
+
+<img align='right' src="http://www.clipartbest.com/cliparts/RTG/EjL/RTGEjLEbc.gif" width="330">
+
+### [ 🐙 ] About Me:
+- I had to be in the technology world a long time ago, but I was lost in space. 🛸 I'm very good at teamwork - I like to help others - it makes me happy to see people excel - I'm always looking for something new to learn. 🛸
+
+
+### [ :abacus: ] Tech Stack
+<p align="center">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="55"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="55"/>       
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="55"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="55"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="55"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="55"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="55"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="55"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="55"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Logo_de_Auth0.svg" width="55"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="55"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="55"/>    
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="55"/>
+ <img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="55"/>  
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Stripe_Logo%2C_revised_2016.svg/2560px-Stripe_Logo%2C_revised_2016.svg.png" width="55"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/PayPal_logo.svg/527px-PayPal_logo.svg.png" width="55"/>
+ </p>
+
+
+
+
+
+
 
 Here are some ideas to get you started:
 
