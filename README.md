@@ -29,7 +29,7 @@ const damixn = {
 ```
 
 
-### [ :abacus: ] Tech Stack
+### Tech Stack
 <p align="center">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="55"/>
