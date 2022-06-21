@@ -1,4 +1,4 @@
-                                                          [ 🎴Hi I'm🎴 ]
+                                                         [ 🎴Hi I'm🎴 ]
 ---
 [![baner.png](https://i.postimg.cc/pTN5ztnK/baner.png)](https://postimg.cc/QBbMZwmM)
 <h2 color="#F8D210">FullStack Developer<img src="https://3.bp.blogspot.com/_-NyGm2MYc0U/TKp8UzErDmI/AAAAAAAABts/rUY4YyOvTXA/h4.gif" width="150"></h2>
