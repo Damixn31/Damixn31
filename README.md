@@ -67,6 +67,7 @@ const damixn = {
     <a href="https://ibb.co/Y7dwPy6"><img width="410px" height="230px" src="https://i.ibb.co/zh2DQ71/2022-06-22-002041-1049x660-scrot.png" alt="2022-06-22-002041-1049x660-scrot" border="0"></a>
     <a href="https://ibb.co/YkPfRyY"><img width="410px" height="230px" src="https://i.ibb.co/yydgfYG/2022-06-22-001300-1292x653-scrot.png" alt="2022-06-22-001300-1292x653-scrot" border="0"></a>
 <a href="https://imgbb.com/"><img width="410px" height="430px" src="https://i.ibb.co/dmBsTZm/2022-06-21-235021-598x617-scrot.png" alt="2022-06-21-235021-598x617-scrot" border="0"></a>
+<a href="https://imgbb.com/"><img width="410px" height="430px" src="https://i.ibb.co/crSf9mf/2022-06-22-002917-587x621-scrot.png" alt="2022-06-22-002917-587x621-scrot" border="0"></a>
 
 
 </div>
