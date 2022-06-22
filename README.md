@@ -59,6 +59,19 @@ const damixn = {
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=Damixn31&theme=dark&hide_border=true" width = 400 background="000000">
 </p>
 
+---
+### Mis Proyecto:
+<div align ="center">
+<a href="https://ibb.co/QF2RFdJ"><img width="410px" height="230px" src="https://i.ibb.co/mCLwC8R/2022-06-21-234916-1273x661-scrot.png" alt="2022-06-21-234916-1273x661-scrot" border="0"></a>
+<a href="https://ibb.co/QPsGvYv"><img width="410px" height="230px" src="https://i.ibb.co/hBpvF2F/2022-06-21-234956-796x516-scrot.png" alt="2022-06-21-234956-796x516-scrot" border="0"></a>
+    <a href="https://ibb.co/Y7dwPy6"><img width="410px" height="230px" src="https://i.ibb.co/zh2DQ71/2022-06-22-002041-1049x660-scrot.png" alt="2022-06-22-002041-1049x660-scrot" border="0"></a>
+    <a href="https://ibb.co/YkPfRyY"><img width="410px" height="230px" src="https://i.ibb.co/yydgfYG/2022-06-22-001300-1292x653-scrot.png" alt="2022-06-22-001300-1292x653-scrot" border="0"></a>
+<a href="https://imgbb.com/"><img width="410px" height="430px" src="https://i.ibb.co/dmBsTZm/2022-06-21-235021-598x617-scrot.png" alt="2022-06-21-235021-598x617-scrot" border="0"></a>
+
+
+</div>
+
+
 
 
 
