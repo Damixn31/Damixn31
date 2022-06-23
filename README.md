@@ -52,18 +52,13 @@ const damixn = {
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Stripe_Logo%2C_revised_2016.svg/2560px-Stripe_Logo%2C_revised_2016.svg.png" width="55"/>
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/PayPal_logo.svg/527px-PayPal_logo.svg.png" width="55"/>
  </p>
-
-
----
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Damixn31&show_icons=true&theme=bear" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=Damixn31&theme=dark&hide_border=true" width = 400 background="000000">
-</p>
-
----
-### Mis Proyecto:
-<h2>Pokemon-App<h2>
+ 
+ ---
+### Proyects:
+   
 <div align ="center">
+    
+    
 <a href="https://ibb.co/QF2RFdJ"><img width="410px" height="230px" src="https://i.ibb.co/mCLwC8R/2022-06-21-234916-1273x661-scrot.png" alt="2022-06-21-234916-1273x661-scrot" border="0"></a>
 <a href="https://ibb.co/QPsGvYv"><img width="410px" height="230px" src="https://i.ibb.co/hBpvF2F/2022-06-21-234956-796x516-scrot.png" alt="2022-06-21-234956-796x516-scrot" border="0"></a>
     
@@ -74,6 +69,15 @@ const damixn = {
   
   
  </div>
+
+
+---
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Damixn31&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=Damixn31&theme=dark&hide_border=true" width = 400 background="000000">
+</p>
+
+
 
 
 
